@@ -13,8 +13,6 @@ ms.custom: kr2b-contr-experiment
 
 This page contains links to resources that can make you more efficient as you develop your apps for Windows. It includes sample apps and toolkits; code samples that demonstrate specific tasks, features, and API usage patterns; and tools to enhance your development environment.
 
-![Developer at desk](./images/developer-at-desk.jpg)
-
 ## Sample gallery apps
 
 [**WinUI 3 Gallery**](https://github.com/microsoft/WinUI-Gallery/tree/main)
